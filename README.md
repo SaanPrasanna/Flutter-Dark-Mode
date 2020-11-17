@@ -1,7 +1,7 @@
 # Dark Mode (Provider + Shared Preferences) 	
 
 ![alt text](https://github.com/SaanPrasanna/Flutter-Dark-Mode/blob/main/assets/icons/darkmode.png?raw=true)
-![Light Mode](http://lkapi.ml/img/light.pngs)
+![Light Mode](https://github.com/SaanPrasanna/Flutter-Dark-Mode/blob/main/assets/icons/light.png?raw=true)
 
 - Provider
 - intl
